@@ -13,13 +13,13 @@ font-family: 'Raleway', sans-serif;
     letter-spacing: 0.03em;
     text-align: left;
     text-decoration: none;
-    color: #E7E9FC;
-background-color: #2E2F42;
+    color: #2E2F42;
+background-color: #E7E9FC;
 }
 .header-logo-iris{
 color: #4D5AE5;
 }
-.header-about-item{
+.header-about-link{
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -35,8 +35,26 @@ background-color: #E7E9FC;
     text-align: left;
 color: #434455;
 background-color: #E7E9FC;
+text-decoration: none;
 }
-
+.header-feedback-link:hover,
+.header-feedback-link:focus{
+    color: #404BBF;
+}
+.header-about-text:hover,
+.header-about-text:focus{
+    color: #404BBF;
+}
+.header-about-list{
+    list-style-type: none;
+}
+.header-feedback-list{
+    list-style-type: none;
+}
+.header-about-text{
+    text-decoration: none;
+    color: #2E2F42;
+}
 /** ------------------MAIN----------------- */
 
 .hero-title {
@@ -164,12 +182,13 @@ font-family: 'Raleway', sans-serif;
 .portfolio-examples-list{
     list-style-type: none;
 }
-.portfolio-item{
+.portfolio-examples-item{
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: left;
+        background-color: #E7E9FC;
 }
 .portfolio-text{
         font-size: 16px;
