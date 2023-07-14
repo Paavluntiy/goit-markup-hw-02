@@ -271,7 +271,7 @@ body {
         list-style: none
     }
 
-    .portfolio-list {
+    .all-portfolio-list {
         list-style: none;
         text-decoration: none;
 
@@ -285,8 +285,9 @@ body {
             color: #2E2F42;
         }
 
-        .portfolio-examples-link {
+        .portfolio-examples-list {
             text-decoration: none;
+            list-style: none;
         }
 
         .portfolio-text {
@@ -295,4 +296,7 @@ body {
             letter-spacing: 0.02em;
             text-align: left;
             color: #434455;
+        }
+        .portfolio-link{
+            text-decoration: none;
         }
