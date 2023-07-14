@@ -8,7 +8,7 @@ background-color: #FFFFFF;
 /** ------------------HEADER----------------- */
 
 
-.header-logo-link{
+.logo-header-link{
 font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
@@ -152,7 +152,7 @@ background-color: #404BBF;;
     text-transform: capitalize;
     background-color: #F4F4FD
 }
-.workers-list{
+.about-workers-list{
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
@@ -188,7 +188,7 @@ list-style-type: none;
 .footer{
 background-color: #2E2F42;
 }
-.footer-logo-link {
+.logo-footer-link {
 font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
@@ -201,12 +201,9 @@ font-family: 'Raleway', sans-serif;
     text-transform: uppercase
 }
 
-.footer-logo-link-iris {
+.logo-footer-link-iris {
     color: #F4F4FD;
     text-decoration: none;
-}
-.logo-footer-link{
- text-decoration: none;
 }
 .footer-text{
     font-family: Roboto;
