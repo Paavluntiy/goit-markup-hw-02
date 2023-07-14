@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', 'Raleway' sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -155,7 +155,7 @@ body {
     text-transform: capitalize;
 }
 
-.heading-title1 {
+.about-team {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -175,10 +175,14 @@ body {
     color: #2E2F42;
 }
 
+
 .work-examples-item {
     list-style-type: none;
-}
 
+}
+.workers{
+    background-color: #F4F4FD;
+}
 .workers.topic {
     font-size: 20px;
     font-weight: 500;
@@ -190,6 +194,8 @@ body {
 
 .workers-list-item {
     list-style-type: none;
+    background-color: #FFFFFF;
+    
 }
 
 .workers-item-text {
@@ -261,7 +267,7 @@ body {
     }
 
 
-    .button-list {
+    .all-button-list {
         list-style: none
     }
 
