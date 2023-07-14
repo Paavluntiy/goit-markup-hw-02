@@ -174,23 +174,14 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.workers-topic{
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: left;
-    color: #2E2F42;
-}
 
 .work-examples-item {
     list-style-type: none;
-
 }
 .workers{
     background-color: #F4F4FD;
 }
-.workers.topic {
+.workers-topic-text {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -204,6 +195,7 @@ body {
     background-color: #FFFFFF;
 
 }
+
 
 .workers-item-text {
     font-size: 16px;
@@ -244,13 +236,6 @@ body {
         text-align: left;
         color: #F4F4FD;
         background-color: #2E2F42;
-    }
-    .about-team{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
     }
 
     /** ------------------PORTFOLIO----------------- */
