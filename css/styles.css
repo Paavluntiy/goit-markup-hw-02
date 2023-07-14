@@ -50,8 +50,8 @@ body {
     color: #404BBF;
 }
 
-.header-about-text:hover,
-.header-about-text:focus {
+.header-about-text-link:hover,
+.header-about-text-link:focus {
     color: #404BBF;
     text-decoration: underline;
 }
@@ -64,7 +64,7 @@ body {
     list-style-type: none;
 }
 
-.header-about-text {
+.header-about-text-link {
     text-decoration: none;
     color: #2E2F42;
     background-color: #E7E9FC;
@@ -174,7 +174,14 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-
+.workers-topic{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #2E2F42;
+}
 
 .work-examples-item {
     list-style-type: none;
