@@ -94,6 +94,7 @@ body {
 }
 
 .hero-button {
+    font-family: var(--primary-font);
     background-color: var(--primary-blue-color);
     cursor: pointer;
     font-weight: 500;
@@ -208,6 +209,7 @@ body {
     text-decoration: none;
     color: var(--primary-blue-color);
     background-color: var(--primary-accent-color);
+    text-transform: uppercase
 }
 
 .footer-logo-link-iris {
@@ -232,6 +234,7 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
+        font-family: var(--primary-font);
     }
 
     .all-button:focus,
