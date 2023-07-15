@@ -71,6 +71,7 @@ body {
 
 .header-about-text-link {
     text-decoration: none;
+    color: var(--primary-accent-color);
 }
 
 .adress-navigation {
